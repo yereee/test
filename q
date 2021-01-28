@@ -1,0 +1,15 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Ricardo Leal Guarda <ricardo.leal@Egt.cl>
+#
+# On branch rleal
+# Changes to be committed:
+#	modified:   src/main/java/cl/egt/apirest/dao/CuentaCorrienteClienteDAO.java
+#	modified:   src/main/java/cl/egt/apirest/dao/CuentaCorrienteClienteDAOImpl.java
+#	modified:   src/main/java/cl/egt/apirest/dao/ReclamanteDAO.java
+#	modified:   src/main/java/cl/egt/apirest/dao/ReclamanteDAOImpl.java
+#	modified:   src/main/java/cl/egt/apirest/dao/ReclamoDAOImpl.java
+#	modified:   src/main/java/cl/egt/apirest/dao/RedestinacionDestinatarioImpl.java
+#
